@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Analyze\\": "src/Core/",
+      "Core\\": "src/Core/",
       "Tests\\Utilities\\": "tests/Utilities"
     }
   },
